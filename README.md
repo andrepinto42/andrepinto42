@@ -2,6 +2,8 @@
 
 My name is André Pinto and I am currently studying Software Engineering @ [Universidade do Minho](https://www.uminho.pt/EN)!
 
+### Coding Passion
+
 My greatest _Passion_ is developing games using the Unity Game Engine and hope someday I work fulltime on creating my own Games.
 
 <div align="center">
@@ -53,6 +55,8 @@ Some others projects have been built but were _nothing serious_...
 
 
 --------------
+
+### Other projects
 
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have made just ***Click it***:
 
