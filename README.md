@@ -45,7 +45,10 @@ Click to see some projects I built in:
 
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
 
-<img alt="alt_text" width="40px" src="facebook.com" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />(https://www.google.com/)
+
+<a href="facebook.pt">![alt text][1]</a>
+[1]: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
+
 
 
 ### Comfortable frameworks
