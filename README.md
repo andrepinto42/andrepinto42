@@ -6,7 +6,7 @@ My greatest _Passion_ is developing games using the Unity Game Engine and hope s
 
 <div>
   
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg " title="C#" alt="C#" width="80" height="80"/>&nbsp;
+  <img class="center" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg " title="C#" alt="C#" width="80" height="80"/>&nbsp;
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
 </div>
 Have been greatly focused in learning the use of the framework and creating some of my own games for about **2 years**
