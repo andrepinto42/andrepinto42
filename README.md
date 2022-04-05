@@ -34,6 +34,10 @@ Click to see some projects I built in:
 
 -----------------------------
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepinto42&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+--------------
+
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
 
 ### Comfortable frameworks
