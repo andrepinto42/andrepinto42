@@ -45,13 +45,19 @@ Click to see some projects I built in:
 
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
 
-<a href="https://github.com/andrepinto42/Computacao-Grafica">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-</a>
+<div>
+  <a href="https://github.com/andrepinto42/Computacao-Grafica">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80">
+  </a>
+  
+  <a href="https://github.com/andrepinto42/Computacao-Grafica">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80">
+  </a>
+</div>
 
 ### Comfortable frameworks
 <div>  
-  <img href="facebook.com" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
