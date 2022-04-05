@@ -8,8 +8,11 @@ My greatest _Passion_ is developing games using the Unity Game Engine and hope s
   
   <img  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg " title="C#" alt="C#" width="80" height="80"/>&nbsp;
   <img  src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
+  <center>
+      I self-taught myself to learn to use Unity and learn to code in C#. 
+  </center>
 </div>
-I self-taught myself to learn to use Unity and learn to code in C#.
+
 
 Here you can checkout some projects that I have been working on:
 
@@ -23,8 +26,8 @@ Some others projects have been built but were _nothing serious_...
   
   <img  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <center>
-    As part of my <strong>course curriculum</strong> I am very comfortable building using Java
-    Click to see some projects I built
+    <p>As part of my <strong>course curriculum</strong> I am very comfortable building using Java</p>
+    <p>Click to see some projects I built</p>
   </center>
 </div>
 
