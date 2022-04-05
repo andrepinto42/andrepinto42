@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is André Pinto and I am currently studying Software Engineering @ [Universidade do Minho](https://www.uminho.pt/EN)!
 
@@ -13,6 +13,7 @@ My greatest _Passion_ is developing games using the Unity Game Engine and hope s
   </center>
 </div>
 
+<br></br>
 
 Here you can checkout some projects that I have been working on:
 
