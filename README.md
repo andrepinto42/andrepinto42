@@ -28,7 +28,7 @@ Some others projects have been built but were _nothing serious_...
   </center>
 </div>
 
-
+<br></br>
 
 
 1. [Simple Football Manager](https://github.com/andrepinto42/Football-Manager) built for being comfortable with OOP best practices.
