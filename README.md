@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://www.uminho.pt/EN">
-    <img
-      src="https://epicje.pt/wp-content/uploads/2021/07/escolaeng.png"
+    <img width="400" height="200"
+      src="https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/43/2020/04/na_universidade_do_minho-1.png"
     />
   </a>
   
