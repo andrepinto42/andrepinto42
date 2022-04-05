@@ -8,18 +8,20 @@ My greatest _Passion_ is developing games using the Unity Game Engine and hope s
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg " title="C#" alt="C#" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
 </div>
-Have been greatly focused in learning the use of the framework and creating some of my own games for about **2 years**!
+Have been greatly focused in learning the use of the framework and creating some of my own games for about **2 years**
 
 Here you can checkout some projects that I have been working on:
 
 * [Pokemon Arceus Clone](https://github.com/andrepinto42/Pokemon3)
 * [Basic 3D Movement Scripts](https://github.com/andrepinto42/Unity3D-MovementMechanic)
 
+Some others projects have been built but were _nothing serious_...
+
 ------------
 
-As part of my course curriculum I am very comfortable building using Java
+As part of my _course curriculum_ I am very comfortable building using Java
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 </div>
 
 Click to see some projects I built in:
@@ -50,21 +52,21 @@ It it's worth mentioning my curriculum it's not only OOP projects. See some more
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80">
   </a>
   
-  <a href="https://github.com/andrepinto42/Computacao-Grafica">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80">
+  <a href="https://github.com/andrepinto42/SO-Projeto">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80">
+  </a>
+  
+  <a href="https://github.com/andrepinto42/Processamento-de-Linguagens">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
   </a>
 </div>
 
 ### Comfortable frameworks
 <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
- 3
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;  
 </div>
 
