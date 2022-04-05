@@ -3,12 +3,12 @@
 <div align="center">
   <a href="https://www.uminho.pt/EN">
     <img
-      src="https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/43/2020/04/na_universidade_do_minho-1.png"
+      src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1920px-Minho_University.svg.png"
     />
   </a>
   
 </div>
-My name is André Pinto and I am currently studying Software Engineering @ [Universidade do Minho](https://www.uminho.pt/EN)!
+My name is André Pinto and I am currently studying Software Engineering @ Universidade do Minho
 
 ### Coding Passion
 
