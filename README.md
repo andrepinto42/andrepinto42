@@ -12,8 +12,10 @@ Have been greatly focused in learning the use of the framework and creating some
 
 Here you can checkout some projects that I have been working on:
 
-* (Pokemon Arceus Clone)[https://github.com/andrepinto42/Pokemon3]
-* (Basic 3D Movement Scripts)[https://github.com/andrepinto42/Unity3D-MovementMechanic]
+* [Pokemon Arceus Clone](https://github.com/andrepinto42/Pokemon3)
+* [Basic 3D Movement Scripts](https://github.com/andrepinto42/Unity3D-MovementMechanic)
+
+------------
 
 As part of my course curriculum I am very comfortable building using Java
 <div>
@@ -22,14 +24,15 @@ As part of my course curriculum I am very comfortable building using Java
 
 Click to see some projects I built in:
 
-1. [Simple Football Manager](https://github.com/andrepinto42/Football-Manager)
-2. [Application for Storing Big Chunk Data and performing efficient Queries(https://github.com/andrepinto42/LI3)
-3. [Threaded Folder and Files Synchronization using UDP](https://github.com/andrepinto42/Comunicoes-Computador)
+1. [Simple Football Manager](https://github.com/andrepinto42/Football-Manager) built for being comfortable with OOP best practices.
+2. [Application for Storing Big Chunk Data and performing efficient Queries](https://github.com/andrepinto42/LI3)
+3. [Threaded Folder and Files Synchronization using UDP](https://github.com/andrepinto42/Comunicoes-Computador), designed to understand better how to design a Internet Protocol for Sending and Receiving Messages.
 4. [CLI Application used by Employees for Managing a Computer Repair Shop](https://github.com/andrepinto42/DSS)
 5. [Algorithm Search of Best Path Possible using Depth First,Breadth First,Greedy Search and A*](https://github.com/andrepinto42/IA)
 6. [Threaded Multi Socket System using UDP for booking Flights](https://github.com/andrepinto42/Sistemas-Distribuidos) and also guarantees the shortest route.
 7. [Android Application Google Maps Clone](https://github.com/andrepinto42/Go---Eat)
 
+-----------------------------
 
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
 
