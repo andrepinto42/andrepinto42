@@ -45,6 +45,8 @@ Click to see some projects I built in:
 
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
 
+[![name](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)](facebook.pt)
+
 ### Comfortable frameworks
 <div>  
   <img href="facebook.com" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
