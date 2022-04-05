@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 <div align="center">
   <a href="https://www.uminho.pt/EN">
@@ -10,7 +10,7 @@
 </div>
 My name is André Pinto and I am currently studying Software Engineering @ Universidade do Minho
 
-### Coding Passion
+## Coding Passion
 
 My greatest _Passion_ is developing games using the Unity Game Engine and hope someday I work fulltime on creating my own Games.
 
@@ -64,7 +64,7 @@ Some others projects have been built but were _nothing serious_...
 
 --------------
 
-### Other projects
+## Other projects
 
 It it's worth mentioning my curriculum it's _not only_ OOP projects. 
 
