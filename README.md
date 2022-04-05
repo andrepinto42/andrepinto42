@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://www.uminho.pt/EN">
-    <img> 
+    <img
       src="https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/43/2020/04/na_universidade_do_minho-1.png"
-    </img>
+    />
   </a>
   
 </div>
