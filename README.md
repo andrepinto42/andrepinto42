@@ -9,7 +9,7 @@ My greatest _Passion_ is developing games using the Unity Game Engine and hope s
   <img  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg " title="C#" alt="C#" width="80" height="80"/>&nbsp;
   <img  src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
 </div>
-Have been greatly focused in learning the use of the framework and creating some of my own games for about **2 years**
+Have been greatly focused in learning the use of the framework and creating some of my own games for about **2 years** 
 
 Here you can checkout some projects that I have been working on:
 
@@ -50,7 +50,7 @@ Some others projects have been built but were _nothing serious_...
 
 --------------
 
-It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have made just *Click it*:
+It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have made just ***Click it***:
 
 <div>
   <a href="https://github.com/andrepinto42/Computacao-Grafica">
