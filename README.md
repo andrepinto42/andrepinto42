@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://www.uminho.pt/EN">
-    <img width="200" height="100"
-      src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1920px-Minho_University.svg.png"
+    <img
+      src="https://epicje.pt/wp-content/uploads/2021/07/escolaeng.png"
     />
   </a>
   
