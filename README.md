@@ -45,11 +45,9 @@ Click to see some projects I built in:
 
 It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
 
-
-<a href="facebook.pt">![alt text][1]</a>
-[1]: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
-
-
+<a href="https://meta.stackoverflow.com/users/44330/jason-s">
+   <img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07">
+</a>
 
 ### Comfortable frameworks
 <div>  
