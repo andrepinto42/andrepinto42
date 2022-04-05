@@ -23,7 +23,7 @@ Some others projects have been built but were _nothing serious_...
   
   <img  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <center>
-    As part of my <bold>course curriculum</bold>I am very comfortable building using Java
+    As part of my <strong>course curriculum</strong> I am very comfortable building using Java
   </center>
 </div>
 
@@ -66,6 +66,8 @@ It it's worth mentioning my curriculum it's not only OOP projects. See some more
   </a>
 </div>
 
+
+<!---
 ### Comfortable frameworks
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGl" width="40" height="40"/>&nbsp;
@@ -75,3 +77,4 @@ It it's worth mentioning my curriculum it's not only OOP projects. See some more
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;  
 </div>
 
+--->
