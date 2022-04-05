@@ -1,9 +1,10 @@
 ### Hello there 👋
+
 <div align="center">
   <img> 
     src="https://sonaesierracms-v2.cdnpservers.net/wp-content/uploads/sites/43/2020/04/na_universidade_do_minho-1.png"
   </img>  
-</center>
+</div>
 My name is André Pinto and I am currently studying Software Engineering @ [Universidade do Minho](https://www.uminho.pt/EN)!
 
 ### Coding Passion
