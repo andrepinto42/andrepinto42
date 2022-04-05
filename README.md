@@ -22,9 +22,9 @@ Some others projects have been built but were _nothing serious_...
 <div>
   align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <h1>
+  <center>
     As part of my _course curriculum_ I am very comfortable building using Java
-  </h1>
+  </center>
 </div>
 
 
