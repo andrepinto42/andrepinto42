@@ -38,12 +38,12 @@ Some others projects have been built but were _nothing serious_...
 
 
 1. [Simple Football Manager](https://github.com/andrepinto42/Football-Manager) built for being comfortable with OOP best practices.
-2. [Application for Storing Big Chunk Data and performing efficient Queries](https://github.com/andrepinto42/LI3)
+2. [Application for Storing Big Chunk Data and performing efficient Queries](https://github.com/andrepinto42/LI3) built for being comfortable handling big Files of Data efficiently.
 3. [Threaded Folder and Files Synchronization using UDP](https://github.com/andrepinto42/Comunicoes-Computador), designed to understand better how to design a Internet Protocol for Sending and Receiving Messages.
-4. [CLI Application used by Employees for Managing a Computer Repair Shop](https://github.com/andrepinto42/DSS)
-5. [Algorithm Search of Best Path Possible using Depth First,Breadth First,Greedy Search and A*](https://github.com/andrepinto42/IA)
-6. [Threaded Multi Socket System using UDP for booking Flights](https://github.com/andrepinto42/Sistemas-Distribuidos) and also guarantees the shortest route.
-7. [Android Application Google Maps Clone](https://github.com/andrepinto42/Go---Eat)
+4. [CLI Application used by Employees for Managing a Computer Repair Shop](https://github.com/andrepinto42/DSS) using a **State Machine** to alters possible commands depending on the functions of the employer.
+5. [Algorithm Search of Best Path Possible using Depth First,Breadth First,Greedy Search and A*](https://github.com/andrepinto42/IA), made for a theoretical delivering company.
+6. [Threaded Multi Socket System using UDP for booking Flights](https://github.com/andrepinto42/Sistemas-Distribuidos) and also guarantees the **shortest** route.
+7. [Android Application Google Maps Clone](https://github.com/andrepinto42/Go---Eat) developed using Android Studio with a lot of support from the Google Places API and Nearby Search API.
 
 <!--- Not worth to meantioning some cluster
 
@@ -58,7 +58,9 @@ Some others projects have been built but were _nothing serious_...
 
 ### Other projects
 
-It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have made just ***Click it***:
+It it's worth mentioning my curriculum it's _not only_ OOP projects. 
+
+See some more projects I have made just ***Click it***:
 
 <div>
   <a href="https://github.com/andrepinto42/Computacao-Grafica">
