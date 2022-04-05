@@ -32,12 +32,13 @@ Click to see some projects I built in:
 6. [Threaded Multi Socket System using UDP for booking Flights](https://github.com/andrepinto42/Sistemas-Distribuidos) and also guarantees the shortest route.
 7. [Android Application Google Maps Clone](https://github.com/andrepinto42/Go---Eat)
 
------------------------------
+<!--- Not worth to meantioning some cluster
 
+-----------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepinto42&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrepinto42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 
 --------------
@@ -46,7 +47,7 @@ It it's worth mentioning my curriculum it's not only OOP projects. See some more
 
 ### Comfortable frameworks
 <div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img href="facebook.com" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
