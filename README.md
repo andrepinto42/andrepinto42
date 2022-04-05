@@ -24,12 +24,12 @@ Some others projects have been built but were _nothing serious_...
   <img  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <center>
     As part of my <strong>course curriculum</strong> I am very comfortable building using Java
+    Click to see some projects I built
   </center>
 </div>
 
 
 
-Click to see some projects I built in:
 
 1. [Simple Football Manager](https://github.com/andrepinto42/Football-Manager) built for being comfortable with OOP best practices.
 2. [Application for Storing Big Chunk Data and performing efficient Queries](https://github.com/andrepinto42/LI3)
@@ -50,7 +50,7 @@ Click to see some projects I built in:
 
 --------------
 
-It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have built:
+It it's worth mentioning my curriculum it's not only OOP projects. See some more projects I have made just *Click it*:
 
 <div>
   <a href="https://github.com/andrepinto42/Computacao-Grafica">
