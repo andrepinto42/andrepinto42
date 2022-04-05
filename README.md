@@ -19,11 +19,11 @@ Here you can checkout some projects that I have been working on:
 Some others projects have been built but were _nothing serious_...
 
 ------------
-<div>
+<div align="center">
   
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <center>
-    As part of my _course curriculum_ I am very comfortable building using Java
+    As part of my <bold>course curriculum</bold>I am very comfortable building using Java
   </center>
 </div>
 
