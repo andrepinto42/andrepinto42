@@ -72,7 +72,7 @@ It it's worth mentioning my curriculum it's _not only_ OOP projects.
 
 See some more projects I have made just ***Click it***:
 
-<div>
+<div align="center">
   <a href="https://github.com/andrepinto42/Computacao-Grafica">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80">
   </a>
