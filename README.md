@@ -34,6 +34,12 @@ Here you can checkout some projects that I have been working on:
 
 Some others projects have been built but were _nothing serious_...
 
+### _Bonus_
+
+In university I built a [game engine](https://github.com/andrepinto42/TP-Computacao-Grafica) using only C++, with the OpenGL,GLUT library.
+
+It currently renders a solar system that is loaded with configurations written in **XML** file.
+
 ------------
 <div align="center">
   
@@ -65,6 +71,20 @@ Some others projects have been built but were _nothing serious_...
 
 
 --------------
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
+  <center>
+    <p>My Python skills are oriented towards building lexical parsers and functional grammars for correctly translating input</p>
+  </center>
+</div>
+
+* [CSV to JSON Conversor](https://github.com/andrepinto42/TP-Language-Processing/tree/master/TP1) converts standard CSV files to JSON using regex expressions to substitute rows of CSV to JSON format
+
+* [PLY-SIMPLE to PLY](https://github.com/andrepinto42/TP-Language-Processing/tree/master/TP02), the grammar of PLY can be a little bit dense so this conversor you can type more simple commands that it will generate the appropriate **Python** code
+
+* [Small Projects for Learning](https://github.com/andrepinto42/Processamento-de-Linguagens) deleloped over the course of the semester to feel confortable
+
+--------
 
 ## Other projects
 
@@ -81,9 +101,6 @@ See some more projects I have made just ***Click it***:
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80">
   </a>
   
-  <a href="https://github.com/andrepinto42/Processamento-de-Linguagens">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
-  </a>
 </div>
 
 
