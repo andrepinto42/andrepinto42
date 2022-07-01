@@ -12,6 +12,8 @@
 
 My name is André Pinto and I am currently studying Software Engineering @ Universidade do Minho
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrepinto42)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Coding Passion
 
 My greatest _Passion_ is developing games using the Unity Game Engine and hope someday I work fulltime on creating my own Games.
